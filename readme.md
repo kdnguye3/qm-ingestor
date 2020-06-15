@@ -11,7 +11,7 @@
 
 composer install
 
-##Running
+## Running
 
 Add schema files to schema directory
 Add data files to data directory
